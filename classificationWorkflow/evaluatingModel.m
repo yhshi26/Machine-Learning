@@ -20,7 +20,8 @@ accuracy = sum(iscorrect)/numel(iscorrect)
 
 
 % Task 4
-% Rather than accuracy (the proportion of correct predictions), a commonly-used metric to evaluate a model is misclassification rate (the proportion of incorrect predictions)
+% Rather than accuracy (the proportion of correct predictions), a commonly-used metric to evaluate a model is misclassification rate (the proportion of 
+% incorrect predictions) 
 % ~= operator determines inequality
 misclassrate = sum(predictions~=testdata.Character)/numel(predictions)
 
