@@ -1,0 +1,15 @@
+Machine learning:
+  - A collection of techniques for extracting information from data
+    e.g. analyzing credit card history to detect fraud
+    
+    Classification: sorting an observation in a discrete class
+    Model: mathematical algorithm that processes data into an output class (classification)
+      - Machine learning builds the model from data (rather than the programmer manually coding the model)
+    
+    Classification flow:
+      - Import data
+      - Preprocess (clean up the data)
+      - Extract features
+      - Build model (using information extracted)
+      - Evaluate model 
+    
