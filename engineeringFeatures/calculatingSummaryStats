@@ -1,0 +1,25 @@
+Statistical Functions
+Measures of Central Tendency
+Function	Description
+mean	Arithmetic mean
+median	Median (middle) value
+mode	Most frequent value
+trimmean	Trimmed mean (mean, excluding outliers)
+geomean	Geometric mean
+harmean	Harmonic mean
+ 
+
+Measures of Spread
+Function	Description
+range	Range of values (largest – smallest)
+std	Standard deviation
+var	Variance
+mad	Mean absolute deviation
+iqr	Interquartile range (75th percentile minus 25th percentile)
+ 
+
+Measures of Shape
+Function	Description
+skewness	Skewness (third central moment)
+kurtosis	Kurtosis (fourth central moment)
+moment	Central moment of arbitrary order
