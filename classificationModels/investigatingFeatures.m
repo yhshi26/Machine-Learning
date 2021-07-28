@@ -32,7 +32,8 @@ fnUfeat = fnU{:,1:end-1};
 parallelcoords(UorNfeat,"Group",UorN.Character)
 
 % Task 5
-% Use the plot function to add the values of the features for the fourth misclassified U to the plot as a black line. (The features for the misclassified letters are stored in the matrix fnUfeat).
+% Use the plot function to add the values of the features for the fourth misclassified U to the plot as a black line. (The features for the misclassified letters 
+% are stored in the matrix fnUfeat).
 
 hold on
 plot(fnUfeat(4,:),"k")
