@@ -1,7 +1,7 @@
 % Investigate Features of Misclassified Samples
 % Instructions are in the task pane to the left. Complete and submit each task one at a time.
 
-Do not edit. This code loads the data and a trained kNN model.
+% Do not edit. This code loads the data and a trained kNN model.
 load letterdata.mat
 load predmodel.mat
 traindata
